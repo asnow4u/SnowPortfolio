@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SnowPortfolio/static/css/main.68f53255.chunk.css",
+    "main.js": "/SnowPortfolio/static/js/main.b4643401.chunk.js",
+    "main.js.map": "/SnowPortfolio/static/js/main.b4643401.chunk.js.map",
+    "runtime-main.js": "/SnowPortfolio/static/js/runtime-main.b6074936.js",
+    "runtime-main.js.map": "/SnowPortfolio/static/js/runtime-main.b6074936.js.map",
+    "static/js/2.56acbe5b.chunk.js": "/SnowPortfolio/static/js/2.56acbe5b.chunk.js",
+    "static/js/2.56acbe5b.chunk.js.map": "/SnowPortfolio/static/js/2.56acbe5b.chunk.js.map",
+    "index.html": "/SnowPortfolio/index.html",
+    "precache-manifest.e2492895b11a03c2643e8ee30aecdf25.js": "/SnowPortfolio/precache-manifest.e2492895b11a03c2643e8ee30aecdf25.js",
+    "service-worker.js": "/SnowPortfolio/service-worker.js",
+    "static/css/main.68f53255.chunk.css.map": "/SnowPortfolio/static/css/main.68f53255.chunk.css.map",
+    "static/js/2.56acbe5b.chunk.js.LICENSE.txt": "/SnowPortfolio/static/js/2.56acbe5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6074936.js",
+    "static/js/2.56acbe5b.chunk.js",
+    "static/css/main.68f53255.chunk.css",
+    "static/js/main.b4643401.chunk.js"
+  ]
+}
