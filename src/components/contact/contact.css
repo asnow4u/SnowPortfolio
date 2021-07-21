@@ -1,0 +1,48 @@
+.contactForm {
+  padding: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  font-weight: bold;
+  color: black;
+  border: solid black;
+  border-radius: 15px;
+  background-color: rgb(204, 197, 0);
+}
+
+.formGroup {
+  padding-bottom: 10px;
+}
+
+label {
+  width: 50%;
+}
+
+.formControl {
+  float: right;
+  width: 50%;
+}
+
+.submitButton {
+  margin-top: 40px;
+  display: block;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}
+
+
+@media only screen and (min-width: 768px) {
+
+  .formGroup {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+  label {
+    font-size: 20px;
+  }
+}

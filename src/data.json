@@ -1,0 +1,197 @@
+{
+  "main": {
+    "title": {
+      "name": "Andrew Snow",
+      "jobTitle": "Software Engineer",
+      "backgroundImage": "/img/project3DView/homeBackground.png"
+    },
+
+    "aboutme": {
+      "title": "About Me",
+      "sectionTitle": "Learn About Me...",
+      "discription": "I'm a software engineer and developer with a passion to create new and innovative experiences. I pride myself with my unique and diverse set of skills and ability to see a project to the end. I design, build, and test 3D environments and web based applications that enhance the users experience and provides a lasting impression.",
+      "backgroundImage": "/img/project3DView/aboutBackground.png"
+    }
+
+  },
+
+  "qualifications": {
+
+    "programs": [
+      {
+        "name": "Unity",
+        "image": "/img/skills/unity.png"
+      },
+      {
+        "name": "Oculus",
+        "image": "/img/skills/oculusIcon.png"
+      },
+      {
+        "name": "WebXR",
+        "image": "/img/skills/webxr.png"
+      },
+      {
+        "name": "Three.js",
+        "image": "/img/skills/three.png"
+      },
+      {
+        "name": "React",
+        "image": "/img/skills/react.png"
+      },
+      {
+        "name": "Node.js",
+        "image": "/img/skills/node.png"
+      }
+    ],
+
+    "skills": [
+      "AR Development",
+      "VR Development",
+      "C# Development",
+      "UI/UX",
+      "Front-End Development"
+    ]
+  },
+
+  "project": {
+    "sectionTitle": "Projects I've Done...",
+    "projects": [
+      {
+        "name": "SolarAR",
+        "shortDiscription": "A web application using AR \ntechnologies to visualize the \nsolar system.",
+        "cubeImage": "/img/project3DView/SolarARScreenShot.png",
+        "fontSize": 0.5,
+        "color": "#ff8000",
+        "externalDisplay": {
+          "discription": "A web application using WebXR to help visualize the solar system. Utilizes Three.js to produce the 3D environment and simulate the physics of the solar system in your own space. Developed as a collab with Intel as a means of educating children about the sun and planets.",
+          "portraitMode": true,
+          "video": "/img/project/SolarAR.gif",
+          "image": "/img/project/solarARScreenShot.png"
+        },
+        "skills": [
+          "WebXR",
+          "Three.js",
+          "AR",
+          "JavaScript",
+          "3D Physics"
+        ],
+        "githubLink": "https://github.com/OSU-2019-Capstone-CS19/Educational-AR-WebXR-App",
+        "demoLink": "https://osu-2019-capstone-cs19.github.io/Educational-AR-WebXR-App/dist/"
+      },
+
+      {
+        "name": "AR Shooting Game",
+        "shortDiscription": "An augmented reality game built \nin unity for a local gamejam.",
+        "cubeImage": "/img/project3DView/ARShootingScreenShot.jpg",
+        "fontSize": 0.3,
+        "color": "#ff471a",
+        "externalDisplay": {
+          "discription": "A unity game bringing the carnival shooting gallery game using AR technology. This application will work off any android phone or tablet that is compatible with Augmented reality. Shoot down as many targets as possible by aiming the gun (your phone) at each target that spawns then tap the screen to shoot. Get the highest score possible before time runs out.",
+          "portraitMode": true,
+          "video": "/img/project/ARShootingGallery.gif",
+          "image": "/img/project/ARShootingGallery.jpg"
+        },
+        "skills": [
+          "Unity",
+          "C#",
+          "Mobile"
+        ],
+        "githubLink": "https://github.com/asnow4u/ShootingGalleryAR",
+        "demoLink": ""
+      },
+
+      {
+        "name": "Crazy Cornhole",
+        "shortDiscription": "An augmented reality game built \nin unity for a local gamejam.",
+        "cubeImage": "/img/project3DView/ARShootingScreenShot.jpg",
+        "fontSize": 0.3,
+        "color": "#ff471a",
+        "externalDisplay": {
+          "discription": "A VR unity game that brings a new challenge to the classic cornhole game. Experience eight different levels that vary in difficulty utilizing different physics based materials that create bouncy and slidy surfaces.",
+          "portraitMode": false,
+          "video": "https://www.loom.com/embed/7f5ce5cf07d0492e9d63ecb0a67dc68f?autoplay=1&mute=1&hide_owner=true&hide_speed=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
+          "image": "/img/project/CrazyCornHoleVR.png"
+        },
+        "skills": [
+          "Unity",
+          "C#",
+          "Mobile"
+        ],
+        "githubLink": "https://github.com/asnow4u/ShootingGalleryAR",
+        "demoLink": ""
+      },
+
+      {
+        "name": "Haunted Escape",
+        "shortDiscription": "",
+        "cubeImage": "/img/project3DView/UnityGameScreenShot.png",
+        "fontSize": 0.35,
+        "color": "#0066ff",
+        "externalDisplay": {
+          "discription": "Trapped in a haunted house filled with ghost intending to keep you their prisoner. A Fun 3D game project I worked on with XRTerra, developed using Unity. Strong use of NavMesh, ambient audio, and lighting to enhance the users experience.",
+          "portraitMode": false,
+          "video": "https://www.loom.com/embed/0720661ee7a443aa94010cb04af53d78?autoplay=1&mute=1&hide_owner=true&hide_speed=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
+          "image": "/img/project/HauntedEscape.jpg"
+        },
+        "skills": [
+          "Unity",
+          "C#"
+        ],
+        "githubLink": "https://github.com/XR-Terra-Curriculum/XRTerra_HauntedJaunt_ASnow/",
+        "demoLink": ""
+      },
+
+      {
+        "name": "Coulomb's Law Simulation",
+        "shortDiscription": "Have a look around to see what\n I've done",
+        "cubeImage": "/img/project3DView/PortfolioScreenShot.png",
+        "fontSize": 0.5,
+        "color": "#ffff33",
+        "externalDisplay": {
+          "discription": "A unity simulation that shows how charged particles interact with each other. This is a 2D simulation to help demonstrate the retracting and attracting of particles with similar or differing charges. Charges on the individual particles can be altered and new particles can be added to the scene.",
+          "portraitMode": false,
+          "video": "https://www.loom.com/embed/53948449f3684e4c9f513a1d24e06dd8?autoplay=1&mute=1&hide_owner=true&hide_speed=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
+          "image": "/img/project/particleSimulator.jpg"
+        },
+        "skills": [
+          "Unity"
+        ],
+        "githubLink": "https://github.com/asnow4u/Coulombs-Law-Simulator.git",
+        "demoLink": ""
+      },
+
+      {
+        "name": "Arcade Space Shooter",
+        "shortDiscription": "Arcade SpaceShooter",
+        "cubeImage": "/img/project3DView/PortfolioScreenShot.png",
+        "fontSize": 0.5,
+        "color": "#ffff33",
+        "externalDisplay": {
+          "discription": "A classic 2D arcade space shooter built using Unity. Great use of particle effects and paths to fit the old retro feel.",
+          "portraitMode": false,
+          "video": "https://www.loom.com/embed/8257466e4e8c4dfdb65a52df9fa2d747?autoplay=1&mute=1&hide_owner=true&hide_speed=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
+          "image": "/img/project/SpaceShooter.jpg"
+        },
+        "skills": [
+          "Unity"
+        ],
+        "githubLink": "https://github.com/XR-Terra-Curriculum/XRTerra_Spaceshooter_ASnow",
+        "demoLink": ""
+      }
+    ]
+  },
+
+  "contact": {
+    "backgroundImage": "/img/project3DView/contactBackground.png",
+    "defaultDiscription": "Let's Connect",
+    "githubIcon": "/img/project3DView/githubLink.png",
+    "gitHubDiscription": "Check Out My\n Repositories",
+    "githubLink": "https://github.com/asnow4u?tab=repositories",
+    "linkedInIcon": "/img/project3DView/linkedInLink.png",
+    "linkedInDiscription": "Join My Network",
+    "linkedinLink": "https://www.linkedin.com/in/asnow4u/",
+    "emailIcon": "/img/project3DView/emailLink.png",
+    "emailDiscription": "Send Me An Email"
+  }
+
+}
