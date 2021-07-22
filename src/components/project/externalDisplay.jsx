@@ -12,16 +12,20 @@ const ExDisplay = (props) => {
 
         {props.data.externalDisplay.portraitMode ?
 
-          <GifPlayer className="externalDisplayPortraitVideoContainer"
-            gif={process.env.PUBLIC_URL + props.data.externalDisplay.video}
-            autoplay={true}
-          />
+          <div className="externalDisplayPortraitVideoContainer">
+            <iframe className="externalDisplayVideo"
+              src={props.data.externalDisplay.video}
+              allow="autoplay"
+              frameBorder="0">
+            </iframe>
+          </div>
 
           :
 
           <div className="externalDisplayVideoContainer">
             <iframe className="externalDisplayVideo"
               src={props.data.externalDisplay.video}
+              allow="autoplay"
               frameBorder="0">
             </iframe>
           </div>
@@ -51,21 +55,3 @@ const ExDisplay = (props) => {
 }
 
 export default ExDisplay;
-
-
-
-
-// {props.data.externalDisplay.portraitMode ?
-//
-//   <div className="externalDisplayPortraitVideoContainer">
-//   <iframe className="externalDisplayVideo" src={process.env.PUBLIC_URL + props.data.externalDisplay.video} frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen allow='autoplay'></iframe>
-// </div>
-//
-//   :
-//
-//   <GifPlayer className="externalDisplayGifPlayer"
-//     gif={process.env.PUBLIC_URL + props.data.externalDisplay.gif}
-//     autoplay={true}
-//   />
-//
-// }

@@ -65,7 +65,7 @@
         "externalDisplay": {
           "discription": "A web application using WebXR to help visualize the solar system. Utilizes Three.js to produce the 3D environment and simulate the physics of the solar system in your own space. Developed as a collab with Intel as a means of educating children about the sun and planets.",
           "portraitMode": true,
-          "video": "/img/project/SolarAR.gif",
+          "video": "https://www.loom.com/embed/0a5dd96884834336892e1b599faaa607?autoplay=1&mute=1&hide_owner=true&hide_speed=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
           "image": "/img/project/solarARScreenShot.png"
         },
         "skills": [
@@ -88,7 +88,7 @@
         "externalDisplay": {
           "discription": "A unity game bringing the carnival shooting gallery game using AR technology. This application will work off any android phone or tablet that is compatible with Augmented reality. Shoot down as many targets as possible by aiming the gun (your phone) at each target that spawns then tap the screen to shoot. Get the highest score possible before time runs out.",
           "portraitMode": true,
-          "video": "/img/project/ARShootingGallery.gif",
+          "video": "https://www.loom.com/embed/4de41e9385074300b79546d2a41564ed?autoplay=1&mute=1&hide_owner=true&hide_speed=true&hide_share=true&hide_title=true&hideEmbedTopBar=true",
           "image": "/img/project/ARShootingGallery.jpg"
         },
         "skills": [
@@ -117,7 +117,7 @@
           "C#",
           "Mobile"
         ],
-        "githubLink": "https://github.com/asnow4u/ShootingGalleryAR",
+        "githubLink": "https://github.com/XR-Terra-Curriculum/XRTerra_VRBeanbagToss_ASnow",
         "demoLink": ""
       },
 
